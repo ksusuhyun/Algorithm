@@ -53,6 +53,9 @@ for l in rect:
     right_shift(r_out)
     rect_reout(r1, c1, r2, c2, r_out)
 
+    # 기본값을 -1로 둘 것
+    # grid에 들어올 수 있는 숫자의 범위가 0부터 9이기 때문에
+    # 0을 new_grid의 기본값으로 두면 문제가 생길 수 있다
     new_grid = [[-1]*m for _ in range(n)]
     for i in range(r1, r2+1):
         for j in range(c1, c2+1):

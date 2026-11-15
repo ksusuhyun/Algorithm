@@ -10,6 +10,9 @@
 
 2026-11-16 08:37
 
+### 아이디어
+
+시뮬레이션 기본. 방향에 우선순위가 있다. 현재 방향에서 '쭉' 가다가 바뀌면 다음 방향으로 변경.
 
 
 > 출처: SW Expert Academy, https://swexpertacademy.com/main/code/problem/problemList.do

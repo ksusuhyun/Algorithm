@@ -10,6 +10,8 @@
 
 2026-11-16 19:16
 
+### 아이디어
 
+visited 배열 2개 쓰는 문제, 가로 방향으로 한 번 보고 세로 방향으로 한 번 보면 된다.
 
 > 출처: SW Expert Academy, https://swexpertacademy.com/main/code/problem/problemList.do

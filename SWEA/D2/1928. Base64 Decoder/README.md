@@ -10,6 +10,10 @@
 
 2026-11-16 20:27
 
+### 아이디어
+
+- 십진수 -> 6비트, 8비트 / 6비트, 8비트 -> 십진수
+- 십진수 -> 문자 : chr() / 문자 -> 십진수 : ord()
 
 
 > 출처: SW Expert Academy, https://swexpertacademy.com/main/code/problem/problemList.do

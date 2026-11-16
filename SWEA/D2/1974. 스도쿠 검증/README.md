@@ -10,6 +10,7 @@
 
 2026-11-16 21:23
 
-
+### 아이디어
+- 2차원 리스트 전치(transpose): list(zip(*arr))
 
 > 출처: SW Expert Academy, https://swexpertacademy.com/main/code/problem/problemList.do
